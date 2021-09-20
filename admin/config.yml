@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: AmyLindsay1/TypograpgicDesign # Path to your GitHub repository
+  repo: AmyLindsay1/TypographicDesign # Path to your GitHub repository
   branch: master # Branch to update (master by default)
   site_domain: typographydesign.netlify.app #Your site on netlify
   use_graphql: true

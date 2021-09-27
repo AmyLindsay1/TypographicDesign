@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here is a blog post sample
+title: Designer Type
 date: 2020-06-24 17:50
 image: ../uploads/placeholder3.jpg
 caption: Cobbles
@@ -11,7 +11,7 @@ The `image` is optional and you should enter the path to it in the metadata abov
 
 > Here follows some more placeholder text. You can see the `markdown` when viewing this post in Atom. This is a *blockquote*.
 
-![Here is a book](../uploads/placeholder3.jpg)
+![Here is a book]()
 
 By impossible of in difficulty discovered celebrated ye. Justice joy manners boy met resolve produce. Bed head loud next plan rent had easy add him. To open draw dear be by side like.
 

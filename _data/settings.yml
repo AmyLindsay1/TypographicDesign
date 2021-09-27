@@ -4,7 +4,7 @@ footer_text: Copyright 2021 Amy Lindsay
 header_feature_image: ../uploads/photo-1566399468572-74fbd5cfe034.webp
 header_text: ""
 header_text_color: "#ffffff"
-bannerheight: 20vmax
+bannerheight: 40vmax
 navbarheight: 35px
 logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico

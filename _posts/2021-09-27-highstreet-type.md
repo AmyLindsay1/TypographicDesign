@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Type is the new black
+title: '"A girl should be two things: classy and fabulous"'
 date: 2021-10-10T13:41:51.069Z
-image: ../uploads/photo-1578983662508-41895226ebfb.jpg
+image: ../uploads/chanel.webp
 title_color: "#ffffff"
-caption: Typeface Through Time
+caption: Design Type
 comments: false
 ---
 H&M is one of the most successful global fashion and design clothing brands in the world, and it has been for 74 years now. With over 5000 stores all around the globe, the retail store is known for being reliable, cost efficient and trendy. The H&M logo is almost instantly recognized, whether you are walking down the Highstreet, in a shopping centre or online shopping, their logo makes it hard for you to walk past without looking. They have faced a journey to get to the famous ‘H&M’ logo we all know and love today….so let’s take a deeper look.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Designer Type
+title: "'A girl should be two things: classy and fabulous'"
 date: 2020-06-24 17:50
 image: ../uploads/louis-v.webp
 caption: Cobbles

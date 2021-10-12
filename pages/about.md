@@ -1,8 +1,8 @@
 ---
 header_feature_image: /uploads/log.jpg
 title: About
-image: ../uploads/untitled-design.png
-subtitle: Fashion in Font- Behind the scenes
+image: ../uploads/rodeo-drive.jpg
+subtitle: ""
 permalink: /about/
 date: 2021-10-02T15:36:12.231Z
 layout: page

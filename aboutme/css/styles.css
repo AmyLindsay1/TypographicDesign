@@ -1,0 +1,86 @@
+body {
+font-family:Arial, Helvetica, sans-serif;
+margin: 1px;
+background-color: rgb(255, 255, 255);
+color: rgb(0, 0, 0);
+}
+
+h1 {
+  font-family: monospace;
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 0, 0);
+  text-align: center;
+  padding: 12px
+}
+
+h2{
+}
+
+p{
+}
+
+.info {
+    border: 2px solid rgb(0, 0, 0);
+    margin-bottom: 12px;
+    padding-left: 10px;
+    max-width: 500px;
+    
+}
+
+main{
+    width: 95%;
+    margin:0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.Barcelona {
+width: 90%;
+margin: 10px auto;
+display: block;
+}
+
+.Bournemouth {
+  width: 80%;
+  margin: 10px auto;
+display: block;
+}
+ .Netball {
+   width: 90%;
+   margin: 10px auto;
+display: block;
+ }
+
+ .Dog {
+   width: 90%;
+   margin: 10px auto;
+   display: block;
+ }
+
+ .Gym
+ {
+   width: 90%;
+   margin: 10px auto;
+   display: block;
+ }
+
+ .Track {
+   width: 90%;
+   margin: 10px auto;
+   display: block;
+ }
+}
+
+@media screen and (max-width:500px) {
+
+main {
+  width: 100%;
+
+}
+
+.info {
+  flex-basis: 100%;
+}
+
+
+}

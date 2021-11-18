@@ -13,7 +13,7 @@ comments: false
 
 Burberry logo has been tweaked a handful of times since the original logo was created in 1901, where the ‘Equestrian Knight’ was developed, which was Burberry’s trademark for over 100 years. I am going to be looking at the significant changes from the logo from the 1999 design to the new 2018 design!
 
-![](../uploads/burberry-1580327187.jpg)
+![](../uploads/burberry-1580327187yyyyyyyyyyyyyyyyyyyyy.jpg)
 
 As you can see, the original logo (on the top) had slender, delicate letters, airly spaced with officious serifs. The Burberry logo was a bespoke expanded version of Bodoni, a modern serif style, which reflects the brands image of high quality and luxury. However, the thin strokes can make it difficult to read, especially on screens at smaller sizes.
 

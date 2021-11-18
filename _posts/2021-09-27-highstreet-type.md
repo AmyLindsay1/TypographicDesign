@@ -9,6 +9,8 @@ comments: false
 ---
 *"A girl should be two things: classy and fabulous"*
 
+![](../uploads/fsh-chn-1542199106701-31-rue-cambon.jpg)
+
 ## **Discover Chanel**
 
 Chanel is one of the most luxurious and elegant designer brands in the whole world, it is highly respected and admired by many people. It was founded by Gabrielle Bonheur, also famously known as Coco Chanel, Chanel is known for their wide range of fragrances, jewellery, fashion, and of course the famous ‘little black dress’. The company originated in Paris, France, it is now located all over the globe with 310 inclusive designer stores. Chanel has an extremely strong and sophisticated brand representation which is appealing to their current target market, who enjoy luxury items and usually have a high repeat purchase rate.

@@ -8,6 +8,8 @@ comments: false
 ---
 *Fashion dresses you, but who dresses fashion?*
 
+![](../uploads/toa-heftiba-zoahudo-bqm-unsplash-1-.jpg)
+
 Who loves vogue? From their magazines, their models and the met gala they present every year, they are an absolute icon to us all, and they have been for some time now…
 
 Magazine covers featured very little typography in the early years of the 20th century, there was not a specific typeface a brand would use, they would pick and choose different typefaces. Over time the modern class of typefaces such as Bodoni and Didot with their high contrast between thick and thin strokes came to define typography and were usually paired with high-fashion content.

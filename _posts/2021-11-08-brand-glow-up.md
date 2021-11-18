@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top 3 Brand 'Glow Up's
-date: 2021-11-01T16:09:37.449Z
+date: 2021-10-24T15:09:37.449Z
 image: ../uploads/burberry.webp
 title_color: "#ffffff"
 caption: ""

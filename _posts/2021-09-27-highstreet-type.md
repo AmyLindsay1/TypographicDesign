@@ -9,7 +9,7 @@ comments: false
 ---
 *"A girl should be two things: classy and fabulous"*
 
-![](../uploads/fsh-chn-1542199106701-31-rue-cambon.jpg)
+![](../uploads/fsh-chn-1542199106701-31jjjjjjjjjjjjjjjjjjjjjjjjj.jpg)
 
 ## **Discover Chanel**
 

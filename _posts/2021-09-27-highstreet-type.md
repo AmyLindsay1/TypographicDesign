@@ -20,3 +20,7 @@ The Chanel branding is in typeface ‘Couture’, belonging to the sans serif fo
 Chanel also has a very famous logo which was created in 1925, the logo is made up of two mirrored and intertwined ‘C’s, this of course representing and is actually designed by the founder Ms Coco Chanel. The purpose of the logo is to present the elegance of Chanel as a brand, as Coco Chanel said, ‘Simplicity is the keynote of all true elegance’. The fact that this logo was designed by Coco herself, shows the authenticity of the brand and how much history and heritage is behind it. Customers admire this about Chanel, they are not buying purely because they have nice items (although it does help;)) they are also buying because of the brand, they want to be a part of Chanel and its history. This logo features on most of the irresistible Chanel bags as well as their jewellery and is a key feature to Chanel’s desirable branding.
 
 Overall, Chanel has used typeface very well in order to compel customers to buy from them, it draws customers back to repurchasing, which means Chanel have a loyal customer base due to the high class, inclusive branding and experience they receive.
+
+![](../uploads/laura-chouette-ysw72yay2a4-unsplash.jpg)
+
+<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=2G88zqPxJ00?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

@@ -22,5 +22,3 @@ Chanel also has a very famous logo which was created in 1925, the logo is made u
 Overall, Chanel has used typeface very well in order to compel customers to buy from them, it draws customers back to repurchasing, which means Chanel have a loyal customer base due to the high class, inclusive branding and experience they receive.
 
 ![](../uploads/laura-chouette-ysw72yay2a4-unsplash.jpg)
-
-<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=2G88zqPxJ00?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

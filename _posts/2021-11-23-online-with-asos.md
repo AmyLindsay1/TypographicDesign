@@ -8,6 +8,8 @@ comments: false
 ---
 *Fashion With Integrity...*
 
+![](../uploads/asos.jpeg)
+
 Brands establish themselves though their aesthetic choices, no matter brand, there is always a designer behind it who intended to make you feel a certain way about the brand. There are multiple factors which come together to create a brands visual unique like colour, font, and layouts. For a brand choosing the right typeface is very important in creating the brands personality, you need to know how to present what you are selling to your customers, just through the logo itself.
 
 ASOS is a British e-commerce platform which was created in 2000, they specialize in the distribution of fashion and cosmetic items all over the world. ASOS follows the latest fashion trends and upload new items everyday making it accessible and enjoyable for their customers to shop regularly. ASOS is a perfect example of a brand choosing their aesthetic choices to ensure that their website is always on brand for their audience. They use a minimalist yet confident approach by using big bold fonts, yet they have a vibrant colour palette in their images to go with this. The brand is perfect for their audience targeted at 18–35-year-olds, who are starting to lean towards sustainability and good quality at an affordable price but not like cheaper fast fashion.

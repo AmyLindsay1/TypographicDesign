@@ -2,6 +2,7 @@
 layout: post
 title: Online With ASOS
 date: 2021-10-31T12:45:12.108Z
+image: ../uploads/asos-name-voguebus-getty-images-oct-19-bundle.jpeg
 title_color: "#ffffff"
 comments: false
 ---

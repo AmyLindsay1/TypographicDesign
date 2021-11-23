@@ -9,6 +9,8 @@ caption: ""
 
 ## H&M Through Time
 
+![](../uploads/screenshot-2021-11-23-at-10.17.12.png)
+
 H&M is one of the most successful global fashion and design clothing brands in the world, and it has been for 74 years now. With over 5000 stores all around the globe, the retail store is known for being reliable, cost efficient and trendy. The H&M logo is almost instantly recognized, whether you are walking down the Highstreet, in a shopping centre or online shopping, their logo makes it hard for you to walk past without looking. They have faced a journey to get to the famous ‘H&M’ logo we all know and love today….so let’s take a deeper look.
 
 H&M was originally named ‘Hennes’ which is a Swedish word, translating to ‘Hers’ in English. As you can see the logo is slightly on a slant and has a handwritten, authentic feel to it. This logo is very approachable and friendly; however, it was very basic and presented a ‘girl next door’ feel…nice, but nothing…special or unique.
@@ -22,3 +24,5 @@ The logo was redesigned to a big bright red monogram, this had the same typeface
 In 1999 the logo wasn’t necessarily rebranded, it was redefined, the colour changed from a vibrant, bold red to a slightly darker shade, even though the change was very subtle, it gave the company a more serious and luxurious feel. The letters were also modified, they straightened the lines more which made them longer and more distinct, making the logo more eye-catching.
 
 https://the-studio.se/work/hm-typography/
+
+![](../uploads/fernand-de-canne-2fnmda6a5ck-unsplash.jpg)

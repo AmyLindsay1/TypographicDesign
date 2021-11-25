@@ -16,7 +16,7 @@ Their logo was designed in the 19th century, and it has never been completely re
 
 The Louis Vuitton logo is used across their products, the status associated with their logo adds extreme value to their items and creates a higher demand from their customers. Within Louis Vuitton’s marketing, their logo is used as their centerpiece for example in the video advert for their perfume ‘Coeur Battant’ with Emma Stone, the brand name is the first thing you see, as well as the emblem in the bottom right corner.
 
-<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/fFv5smPPuZo?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/fFv5smPPuZo?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 The success of the brand means that it is one of the most counterfeited companies, almost 20% of the accessories that have been counterfeited in the EU are Louis Vuitton. The company works very hard to reduce the number of fakes and avoid it from happening.
 
